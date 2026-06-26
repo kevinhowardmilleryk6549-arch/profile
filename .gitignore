@@ -1,0 +1,10 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.tmp
+coverage/
+*.bak
+dist/
+*.log
